@@ -1,4 +1,4 @@
-//Line follower robot with Arduino
+/*Line follower robot with Arduino*/
 
 //Motors speed value must be between 0 and 255.
 const int motors_speed = 150;
